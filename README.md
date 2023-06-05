@@ -8,8 +8,8 @@
 
 ### Screenshot
 
-![screenshot](src/screen1.png)
-![screenshot](src/screen2.png)
+![screenshot](./assests/src/screen1.png)
+![screenshot](./assests/src/screen2.png)
 
 #### Made by
 
